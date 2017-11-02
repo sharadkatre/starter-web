@@ -7,6 +7,8 @@ This is for the introduction purpose of git and github only
 
 ## Purpose
 
+##Deployment
+
 ##How To Contribute
 
 Sample website with plenty of files for demos
