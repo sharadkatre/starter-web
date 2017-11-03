@@ -12,6 +12,7 @@ A web project can be deployed on any server or even a local server
 ##How To Contribute
 Please for this repository
 ### Copyright
-Copyright 2017 mobisoftinfotech
+Copyright 2017 mobisoftinfotech.com
 
 Sample website with plenty of files for demos
+
